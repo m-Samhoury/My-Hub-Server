@@ -11,9 +11,9 @@ Client application using this server: https://github.com/m-Samhoury/My-Media-Hub
 
 ### Instructions to run the server:
 
-`node install`
+`npm install --save`
 
-`npm start`
+`node UploadFIleController.js`
 
 **constants.js contain the IP address that this server will be listening into, the specified IP may not be available,
  it is advised to use the same IP as your laptop**
